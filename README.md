@@ -321,6 +321,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [The Blunt](https://github.com/Snoresville/balatro-blunt-joker) - This mod features one (1) custom Joker. by [@Snoresville](https://github.com/Snoresville)
 - [Themed Jokers](https://github.com/BlizzowX/Balatro---Themed-Jokers) - A bunch of themed Jokers. by [@Blizzow](https://github.com/BlizzowX)
 - [Zilliax](https://github.com/snowylight/Zilliax) - Assemble Functional Modules to create your own Zilliax! by [@snowylight](https://github.com/snowylight)
+- [Joking Around](https://github.com/josephbalatrokerry/JokingAround/tree/main) - Adds 20+ custom Jokers and a Deck. by [@Josephbalatrokerry](https://github.com/josephbalatrokerry)
 
 ### Seals
 
